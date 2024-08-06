@@ -21,6 +21,22 @@ The app follows the **clean architecture** design pattern, which separates the a
 
 **State Management**: BLoC (Business Logic Component) is used for managing state in a reactive manner, making the app scalable and testable.
 
+### Home Screen
+
+![Home Screen](screenshots/homepage.jpeg)
+
+### No Journal
+
+![No Journal](screenshots/no_journal.jpeg)
+
+### Add Journal Entry
+
+![Add Journal Entry](screenshots/journal.jpeg)
+
+### Journal Entry Details
+
+![Journal Entry Details](screenshots/journal_entry_details.png)
+
 ## Dependencies
 
 The app uses the following dependencies:
