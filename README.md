@@ -4,6 +4,10 @@
 
 The Journal Local App is a Flutter application designed for storing and managing journal entries locally on a device. The app leverages the `sqflite` package for local database management, follows clean architecture principles, and uses BLoC for state management. This README provides an overview of the app's architecture, dependencies, and setup instructions.
 
+## Working Demo
+
+https://polarized-isthmus-96b.notion.site/Journal-Local-Storage-App-8662afa10ce8486e9b54f07ed6d28189?pvs=4
+
 ## Features
 
 - Local storage of journal entries using SQLite.
@@ -23,19 +27,15 @@ The app follows the **clean architecture** design pattern, which separates the a
 
 ### Home Screen
 
-![Home Screen](screenshots/homepage.jpeg)
+<img src="screenshots/homepage.jpeg" alt="Home Screen" width="300"/>
 
 ### No Journal
 
-![No Journal](screenshots/no_journal.jpeg)
+<img src="screenshots/no_journal.jpeg" alt="No Journal" width="300"/>
 
 ### Add Journal Entry
 
-![Add Journal Entry](screenshots/journal.jpeg)
-
-### Journal Entry Details
-
-![Journal Entry Details](screenshots/journal_entry_details.png)
+<img src="screenshots/journal.jpeg" alt="Add Journal Entry" width="300"/>
 
 ## Dependencies
 
